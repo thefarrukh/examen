@@ -1,0 +1,44 @@
+.blocks{
+    display: flex;
+    gap: 20px;
+    text-align: center;
+}
+
+.blocks2{
+    margin-top: 50px;
+    display: flex;
+    justify-content:space-between;
+    text-align: center;
+}
+
+.blocks3{
+    margin: 50px;
+    display: flex;
+    justify-content: space-between;
+    text-align: center; 
+}
+
+.blocks4{
+    margin: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    text-align:center; 
+}
+
+.blocks5{
+    margin: 50px;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    text-align: center; 
+}
+
+.block1{
+    width: 400px;
+    background-color: rgb(233, 241, 168);
+}
+
+.block2{
+    width: 400px;
+    background-color: aqua;
+}
